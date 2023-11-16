@@ -1,6 +1,6 @@
 - Getting started
 
-    - [Support](support.md)
+    - [Support](support/support.md)
     - [Something else](more-pages.md)
     - [Something else](more-pages.md)
 
