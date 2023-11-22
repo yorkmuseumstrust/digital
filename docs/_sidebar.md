@@ -1,13 +1,15 @@
-- Getting started
+- Support
 
     - [Support](support/support.md)
     - [Something else](more-pages.md)
     - [Something else](more-pages.md)
 
-- Guide
+- Learn
 
     - [Print](deploy.md)
     - [Desk Setup](helpers.md)
 
-- [Awesome Digital Team](awesome.md)
-- [Product Roadmap](changelog.md)
+- Projects
+
+  - [Print](deploy.md)
+  - [Desk Setup](helpers.md)
