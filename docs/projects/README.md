@@ -8,7 +8,5 @@ Autumn 2021 - Autumn 2023
 
 Long running, discovery, Axiell/YM Collections team
 
-## York Art Gallery - Partings
+## York Art Gallery - Paintings
 Paintings collection imaged
-
-Hello World
