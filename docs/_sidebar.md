@@ -1,7 +1,7 @@
 - Support
 
     - [Support](support/support.md)
-        - example item
+        - [Help Razorblue to help you](support/help-razorblue.md)
     - [Something else](more-pages.md)
     - [Something else](more-pages.md)
 
