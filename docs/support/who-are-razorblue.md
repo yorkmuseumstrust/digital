@@ -13,7 +13,7 @@ Razorblue will respond:
 - **Within 1-6 hours** if an IT issue prevents an individual from working, or a minor IT issue affects an individual or group.
 
 ### Who am I talking to when I contact Razorblue?
-Razorblue have a team of 8? staff dedicated to supporting YMT.
+Razorblue have a team of 9 staff dedicated to supporting YMT.
 Can we add information about who is on the team?
 
 Razorblue are based in North Yorkshire. They have a team of over 170 experienced, enthusiastic IT professionals with different expertise and specialisms.
