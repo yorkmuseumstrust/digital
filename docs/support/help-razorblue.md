@@ -1,6 +1,7 @@
 # Help Razorblue to support you
 
-Please give as much information as possible, so that Razorblue can support you better. Try to describe the IT issue and how it is affecting your work.
+Please give as much information as possible, so that Razorblue can support you better. 
+Try to describe the IT issue and how it is affecting your work.
 
 ### Useful information to provide:
 
