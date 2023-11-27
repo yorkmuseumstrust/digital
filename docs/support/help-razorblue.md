@@ -1,6 +1,6 @@
 # Help Razorblue to support you
 
-Try to describe your IT issue and work situation so that Razorblue can support you better.
+Please give as much information as possible, so that Razorblue can support you better. Try to describe the IT issue and how it is affecting your work.
 
 ## Useful information to provide:
 
@@ -14,4 +14,4 @@ Say when you are available to receive IT support, including giving remote access
 > For example, I can talk to you and give remote access to my laptop on Tuesday 21st from 3-5pm, or Wednesday 22nd 9-11am.
 
 Tell them how best to contact you, ideally by providing a phone number. 📲
-> For example, you can contact me on.. ...
+> For example, you can contact me on ...
