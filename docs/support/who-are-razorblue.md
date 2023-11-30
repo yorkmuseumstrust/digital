@@ -22,4 +22,5 @@ Their work is nationally recognised for providing high quality technology soluti
 
 ### Good to know:
 - You don't need to check with your line manager before contacting Razorblue.
-- You don't need to copy in YMT Digital colleagues when contacting Razorblue. If they need to check something with YMT, Razorblue will contact your Digital colleagues e.g. to check permissions for requests.
+- You don't need to copy in YMT Digital colleagues when contacting Razorblue. If they need to check an issue with YMT, Razorblue will contact your Digital colleagues e.g. to check permissions for change of access.
+Your Digital colleagues can check the Razorblue system to view current issues raised and their progress.
