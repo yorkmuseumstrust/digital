@@ -13,6 +13,7 @@ Contact our IT support provider Razorblue:
 - Razorblue provide IT support 24 hours a day.
 - You can contact Razorblue directly.
 - Razorblue will respond to all support requests in order of urgency.
+- You will be asked for a password, if you request support via Supportal.
 
 > If you are unable to work because of an IT failure, contact Razorblue.
 
