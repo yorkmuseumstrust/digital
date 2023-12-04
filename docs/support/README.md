@@ -12,7 +12,7 @@ Contact our IT support provider Razorblue:
 ### Good to know:
 - Razorblue provide our **IT support 24 hours a day.**
 - You can contact Razorblue directly.
-- You do not need permission from your line manager to request IT support.
+- You do not need permission from your line manager to request IT support from Razorblue.
 - Razorblue will respond to all support requests in order of urgency.
 - If you request support via Razorblue Supportal, you will be asked for your password for their site.
 - If you phone or email, you will not need your password.
