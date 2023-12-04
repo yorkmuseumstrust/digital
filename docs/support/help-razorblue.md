@@ -1,4 +1,4 @@
-# Help Razorblue to support you
+# Making an effective support request
 
 Providing the best support request that you can helps Razorblue understand, prioritise and resolve your issue.
 
