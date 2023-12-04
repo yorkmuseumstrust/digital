@@ -6,7 +6,7 @@ This will get you back up and running faster! 🏃‍♂️
 
 Here are some tips for making a great support request.
 
-## What to include in your support request:
+## What to include:
 
 ### 1. Be as specific as possible.
 - Describe your IT issue in your own words. 🤔 💭
