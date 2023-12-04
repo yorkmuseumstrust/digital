@@ -1,8 +1,6 @@
 # Help Razorblue to support you
 
-Providing the best support request that you can helps Razorblue to support you more effectively and efficiently.
-
-They will be better able to understand, prioritise and resolve your issue.
+Providing the best support request that you can helps Razorblue understand, prioritise and resolve your issue.
 
 This will get you back up and running faster! 🏃‍♂️
 
@@ -12,20 +10,20 @@ Here are some tips for making a great support request.
 
 ### 1. Be as specific as possible.
 - Describe your IT issue in your own words. 🤔 💭
-- Is something not working as it should, whether a device or software?
+- Is something not working as it should?
 - Or do you need a change to a system, such as creating a new user account?
 - The more detail you provide, the easier it will be to help you.
 
 ### 2. Describe your issue in detail.
-- Give a clear summary of the issue and be ready to give more detail in the main message.
-- Any details you can provide help Razorblue understand the issue and address it more quickly.
+- Give a clear summary of the issue and more detail in the main message.
+- Any details help Razorblue understand the issue and address it more quickly.
 - Include:
 	- any error messages that have popped up
-	- any steps that you've already tried to resolve the problem
+	- any steps that you've tried to resolve the problem
 	- any other relevant information
 
 ### 3. Provide screenshots or screen recordings, if possible.
-Visual aids are incredibly helpful to help Razorblue understand the issue quickly.
+Visual aids are one of the best ways to help Razorblue understand the issue quickly.
 
 If you're not sure how to do this, see here. INSERT LINK and create content
 
@@ -35,7 +33,7 @@ If you're not sure how to do this, see here. INSERT LINK and create content
 - Does it prevent work partly or completely?
 
 ### 5. Give your contact details (name, department, phone, email address).
-- If at all possible, provide a phone number. 📲
+- If possible, provide a phone number. 📲
 - Razorblue can help you best when they can talk to you about the issue.
 - If the issue affects more than one person, say who the best person is to contact.
 
