@@ -1,9 +1,12 @@
-# Digital and Data
+# About
 
-### 👋 Hello there, we're the Digital and Data Team :-)
+## Digital is not just about technology. Its about putting the culture, processes, business models, and technologies of the digital age to work for people.
 
-We're a small group of UX designers, developers etc. based at [York Museums Trust](https://www.yorkmuseumstrust.org.uk/ "York Museums Trust") where we do the layer between objects of cultural heritage, technology, and people.
+### We believe that only through harnessing the tools, techniques and technology of the digital age will we fulfil our charitable vision and outcomes. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur libero id faucibus nisl tincidunt eget nullam. Orci dapibus ultrices in iaculis. Viverra accumsan in nisl nisi scelerisque eu. Aliquet nibh praesent tristique magna sit amet purus. Ultrices in iaculis nunc sed augue lacus viverra. Sed odio morbi quis commodo odio aenean. Vestibulum lorem sed risus ultricies tristique nulla. Congue quisque egestas diam in arcu cursus euismod quis. Urna cursus eget nunc scelerisque viverra mauris. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. In vitae turpis massa sed elementum tempus. Blandit cursus risus at ultrices. Cras ornare arcu dui vivamus arcu felis bibendum ut tristique. Justo donec enim diam vulputate. Metus dictum at tempor commodo ullamcorper. Nulla malesuada pellentesque elit eget gravida cum sociis. Enim neque volutpat ac tincidunt vitae. Augue mauris augue neque gravida in.
+The purpose of our Digital and Data Team is to:
 
-Nunc sed augue lacus viverra. Feugiat in fermentum posuere urna nec tincidunt praesent semper. Et ultrices neque ornare aenean. Vulputate ut pharetra sit amet. Purus faucibus ornare suspendisse sed nisi lacus sed viverra tellus. Enim ut sem viverra aliquet eget. Ante metus dictum at tempor commodo ullamcorper a lacus vestibulum. Porttitor massa id neque aliquam vestibulum morbi blandit. In aliquam sem fringilla ut morbi tincidunt augue interdum velit. Mattis pellentesque id nibh tortor id aliquet lectus. Purus sit amet luctus venenatis lectus magna fringilla urna.
+- Example 1
+- Example 2
+- Example 3
+
