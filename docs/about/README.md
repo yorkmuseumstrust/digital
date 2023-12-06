@@ -1,6 +1,6 @@
 # About.
 
-On this page you will find out about **Digital** and the **Digital and Data Team** 🦄
+On this page you will find out about **Digital** and the **Digital and Data Team** 🦄 at York Museums Trust.
 
 ## Digital is not just about technology. Its about putting the culture, processes, business models, and technologies of the digital age to work for people.
 
