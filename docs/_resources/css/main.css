@@ -763,8 +763,8 @@ section.cover blockquote>p>a:hover {
 }
 
 .markdown-section h1,.markdown-section h2,.markdown-section h3,.markdown-section h4,.markdown-section strong {
-    color: #2c3e50;
-    /*font-weight: 200;*/
+    color: #0c0a09;
+    font-weight: 700;
 }
 
 .markdown-section a {
@@ -775,10 +775,10 @@ section.cover blockquote>p>a:hover {
 }
 
 .markdown-section h1 {
-    font-size: 2.2rem;
+    font-size: 2.4rem;
     text-decoration: none;
     font-weight: 500;
-    margin: 0 0 1rem
+    margin: 0 0 2.4rem
 }
 
 .markdown-section h1 a {
@@ -792,7 +792,7 @@ section.cover blockquote>p>a:hover {
 .markdown-section h2 {
     font-size: 1.75rem;
     font-weight: 500;
-    margin: 45px 0 .8rem;
+    margin: 3rem 0 1.5rem;
 }
 
 .markdown-section h2 a {
@@ -806,7 +806,7 @@ section.cover blockquote>p>a:hover {
 .markdown-section h3 {
     font-size: 1.5rem;
     font-weight: 500;
-    margin: 40px 0 .6rem;
+    margin: 2rem 0 2rem;
 }
 
 .markdown-section h3 a {
@@ -831,6 +831,10 @@ section.cover blockquote>p>a:hover {
     color: #777;
     font-size: 1rem;
     font-weight: 500;
+}
+
+.markdown-section em {
+    text-decoration: underline;
 }
 
 .markdown-section figure,.markdown-section p {
