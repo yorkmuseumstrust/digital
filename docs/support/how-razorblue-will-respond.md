@@ -2,6 +2,8 @@
 
 You've submitted an IT support request - so what now?
 
+On this page you can find out what to expect when you submit an IT Support request.
+
 
 ### 1. Expect a phone call.
 
