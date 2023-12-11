@@ -25,13 +25,15 @@ Here are some tips for making a great support request.
 ### 3. Provide screenshots or screen recordings, if possible.
 Visual aids are one of the best ways to help Razorblue understand the issue quickly.
 
+Here's how to do it:
+
 **To capture all screens:**
-You can do this by pressing to print screen. This will save an image of your entire screen (or both screens) to the clipboard.
+You can do this by pressing **ctrl+v** to print screen. This will save an image of your entire screen (or both screens) to the clipboard.
 
 **To capture just the active window:**
 You can do this by pressing **Alt** + **prtsc/F10**. This will save an image of the window you are currently using.
 
-You can then open an email or document and press **ctrl+v** to paste your image into.
+You can then open an email or document and press **ctrl+v** to paste your image into it.
 
 If you want further advice on taking a screenshot, [see here](https://surfacetip.com/screenshot-on-surface-laptop-2/)
 
