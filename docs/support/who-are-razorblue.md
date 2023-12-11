@@ -15,12 +15,13 @@
 ### Who am I talking to when I contact Razorblue?
 - Based in North Yorkshire, Razorblue employ over 170 experienced, enthusiastic IT professionals with different specialisms.
 
+- Razorblue's work is nationally recognised for providing high quality technology solutions and delivering an excellent level of customer service.
+
 - YMT's IT Support team is called Team Jobs, and includes 9 people. You might talk to Aaron, Alex, Arran, Jamie, Jordan, Kieran, Luke, Matthew or David. 
 
-- Razorblue's work is nationally recognised for providing high quality technology solutions and delivering an excellent level of customer service.
 
 ### Good to know:
 - You don't need to check with your line manager before contacting Razorblue.
 - You don't need to copy in YMT Digital colleagues when contacting Razorblue.
-- If Razorblue need to liaise with YMT Digital, they will contact us e.g. to check permission for change of access.
+- If Razorblue need to liaise with YMT Digital, they will contact us, e.g. to check permission for a change of access.
 - Your Digital colleagues can check the Razorblue system to view current issues raised and their progress.
