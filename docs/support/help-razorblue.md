@@ -25,7 +25,9 @@ Here are some tips for making a great support request.
 ### 3. Provide screenshots or screen recordings, if possible.
 Visual aids are one of the best ways to help Razorblue understand the issue quickly.
 
-If you're not sure how to do this, see here. INSERT LINK and create content
+You can do this by pressing F10 to print screen **prtsc/F10**. This will save an image of your screen to the clipboard. Open on MS Word document and press **ctrl** **v** to paste the image into a Word document.
+
+If you want further advice, [see here](https://surfacetip.com/screenshot-on-surface-laptop-2/)
 
 ### 4. Say how the issue is affecting your and others' work.
 - Does it affect you alone?
