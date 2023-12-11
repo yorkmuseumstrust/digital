@@ -6,6 +6,7 @@
         - [Digital or Razorblue?](support/digital-or-razorblue.md)
         - [Who are Razorblue?](support/who-are-razorblue.md)
         - [How Razorblue prioritise support requests](support/how-razorblue-prioritise-requests.md)
+        - [Your Razorblue password](support/get-razorblue-pw.md)
         
 - Learn
 
