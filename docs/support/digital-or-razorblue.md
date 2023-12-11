@@ -1,7 +1,7 @@
-# Should I contact YMT Digital or Razorblue?
-For IT support, please contact Razorblue: [Support](support/)
+# Should I contact IT Support or Digital?
+For IT Support, please contact Razorblue: [Support](support/)
 
-For digital projects, please contact Digital: digital@ymt.org.uk
+For Digital services within YMT, please contact Digital: digital@ymt.org.uk
 
 ### Argh, it's not working!
 - For immediate support with an IT issue, you will get help fastest by contacting Razorblue.
@@ -9,15 +9,6 @@ For digital projects, please contact Digital: digital@ymt.org.uk
 - Razorblue have over 170 people working for them who can collaborate to resolve your issue.
 
 - ... That's a lot of IT brainpower! 🧠
-
-### Isn't that what Digital do?
-- Whilst our Digital team is, of course, brilliant and exceptionally hardworking 😇, we are just 3.4 people - and no one is directly tasked with resolving IT support issues.
-
-- That's why we contract Razorblue to support you with day-to-day IT issues.
-
-- If your YMT Digital colleagues do the work for Razorblue, then YMT will be paying us and them to do the same job! 💷 🙊
-
-- Find out more about what the Digital team do in [About](about/).
 
 ### But Razorblue will need to talk to Digital anyway ...
 - Maybe, but there is a lot Razorblue can help you with directly due to their access to our systems.
@@ -39,10 +30,10 @@ For digital projects, please contact Digital: digital@ymt.org.uk
 
 - If you contact Digital with an immediate IT support issue, there could be a delay in getting you support.
 
-- Razorblue are just waiting on your call, whilst we might be in a long (but wonderful!) meeting about a project which will help us all work better or deliver content for our audiences.
+- Razorblue are just waiting on your call, whereas we might be in a long (but wonderful!) meeting about a project which will help us all work better or deliver content for our audiences.
 
 
-### Then, what do Digital do?!
+### So, tell me more about Digital...
 - Digital enable a wide range of digital development projects across YMT.
 
 - We are also developing new ways of supporting you with your own digital development in the workplace.
