@@ -1,19 +1,17 @@
 # Projects
 
-The **Digital and Data Team** 🦄 are involved in a wide range of projects to develop digital producst and servces at York Museums.
+The **Digital and Data Team** 🦄 are involved in a wide range of projects to develop digital products and services at York Museums Trust.
 
 ## Current
-Current projects include: 
+Current products include: 
 
-## Media Library
+### Media Library
 AI Tagging, asset management
 
-## Big (BAD 🐺) Archaeological Data 
-Autumn 2021 - Autumn 2023
+### Big (BAD 🐺) Archaeological Data 
+Making the vast detail of our archaeological collections visible
 
-Long running, discovery, Axiell/YM Collections team
-
-## York Art Gallery - Paintings
+### York Art Gallery - Paintings
 Paintings collection imaged
 
 
