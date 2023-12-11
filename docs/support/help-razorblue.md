@@ -33,7 +33,7 @@ Press **prtsc/F10** (print screen). This will save an image of your entire scree
 **To capture just the active window:**
 Press **Alt** + **prtsc/F10**. This will save an image of the window you are currently using.
 
-Next, open an email or document and press **ctrl+v** to paste your image into it.
+Next, open an email or document and press **ctrl+v** to paste your image into it. You can then send the email or upload the document as an attachment.
 
 If you want further advice on taking a screenshot, [see here](https://surfacetip.com/screenshot-on-surface-laptop-2/)
 
