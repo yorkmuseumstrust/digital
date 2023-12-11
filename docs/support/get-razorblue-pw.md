@@ -4,4 +4,6 @@ When you are set up with your YMT email address, you will receive an email askin
 
 Please set it up and capture the password securely.
 
-If you forget your password, you can phone or email Razorblue instead.
+If you forget your password, you can phone or email Razorblue directly for IT Support.
+
+You can request a new password from: digital@ymt.org.uk
