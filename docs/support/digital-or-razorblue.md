@@ -3,6 +3,8 @@ For IT Support, please contact Razorblue: [Support](support/)
 
 For Digital services within YMT, please contact Digital: digital@ymt.org.uk
 
+On this page you can find out which issues IT Support and Digital can each help with.
+
 ### Argh, it's not working!
 - For immediate support with an IT issue, you will get help fastest by contacting Razorblue.
 
@@ -19,7 +21,7 @@ For Digital services within YMT, please contact Digital: digital@ymt.org.uk
 - Let them work it out - they will tell you if it's not an issue they can resolve.
 
 ### I feel like I should let Digital know too ...
-- When you submit a support request to Razorblue, it's logged in the Razorblue call system which can be seen by both Razorblue and the Digital team.
+- When you submit a support request to Razorblue, it's logged in their call system which can be seen by both the Razorblue and Digital teams.
 
 - By having all requests logged in one system, we can review the data and identify patterns and needs that might require a different approach, such as training or a change of systems.
 
