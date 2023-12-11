@@ -1,6 +1,6 @@
 # Making an effective support request
 
-Providing the best support request that you can helps Razorblue understand, prioritise and resolve your issue.
+You can help IT Support understand, prioritise and resolve your issue, by providing more detail in your support request.
 
 This will get you back up and running faster! 🏃‍♂️
 
