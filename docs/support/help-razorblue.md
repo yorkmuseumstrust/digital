@@ -16,14 +16,14 @@ On this page you will find some tips for making a great support request.
 
 ### 2. Describe your issue in detail.
 - Give a clear summary of the issue and more detail in the main message.
-- Any details help Razorblue understand the issue and address it more quickly.
+- Any details help IT Support understand the issue and address it more quickly.
 - Include:
 	- any error messages that have popped up
 	- any steps that you've tried to resolve the problem
 	- any other relevant information
 
 ### 3. Provide screenshots or screen recordings, if possible.
-Visual aids are one of the best ways to help Razorblue understand the issue quickly.
+Visual aids are one of the best ways to help IT Support understand the issue quickly.
 
 Here's how to do it:
 
@@ -44,10 +44,10 @@ If you want further advice on taking a screenshot, [see here](https://surfacetip
 
 ### 5. Give your contact details (name, department, phone, email address).
 - If possible, provide a phone number. 📲
-- Razorblue can help you best when they can talk to you about the issue.
+- IT Support can help you best when they can talk to you about the issue.
 - If the issue affects more than one person, say who the best person is to contact.
 
 ### 6. Say when you are available to receive IT support.
-- Tell Razorblue when you're available. 💁🏾‍♂️
+- Tell IT Support when you're available. 💁🏾‍♂️
 - Don't feel obliged to respond outside of your working hours, if it's not convenient.
-- Be prepared to give Razorblue remote access to your device when they get in touch.
+- Be prepared to give IT Support remote access to your device when they get in touch.
