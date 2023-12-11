@@ -1,4 +1,4 @@
-# How Razorblue will respond to your support request
+# How IT Support will respond to your support request
 
 You've submitted an IT support request - so what now?
 
@@ -7,7 +7,7 @@ On this page you can find out what to expect when you submit an IT Support reque
 
 ### 1. Expect a phone call.
 
-- Razorblue prefer to respond by phone. 📲
+- IT Support prefer to respond by phone. 📲
 
 - Talking to you makes it much easier to identify the issue and to solve it.
 
@@ -16,7 +16,7 @@ On this page you can find out what to expect when you submit an IT Support reque
 
 ### 2. Be prepared for them to take control of your device.
 
-- It's likely Razorblue will need to access your device to resolve your issue. 💻
+- It's likely IT Support will need to access your device to resolve your issue. 💻
 
 - They might need to close different windows or shut down the device as part of the process.
 
@@ -25,7 +25,7 @@ On this page you can find out what to expect when you submit an IT Support reque
 
 ### 3. Remember, we're all our own number 1 priority ...
 
-- Razorblue's team can see all of YMT's current IT support requests and these are constantly prioritised. 🤔
+- The team at IT Support can see all of YMT's current IT support requests and these are constantly prioritised. 🤔
 
 - They will address your request as soon as possible.
 
