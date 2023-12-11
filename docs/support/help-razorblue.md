@@ -4,7 +4,7 @@ Providing the best support request that you can helps Razorblue understand, prio
 
 This will get you back up and running faster! 🏃‍♂️
 
-Here are some tips for making a great support request.
+On this page you will find some tips for making a great support request.
 
 ## What to include:
 
