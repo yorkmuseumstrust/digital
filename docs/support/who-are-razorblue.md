@@ -7,19 +7,27 @@
 
 On this page you can find out more about our IT Support team at Razorblue.
 
+### Who am I talking to when I contact Razorblue?
+- YMT's IT Support team is based in Catterick, North Yorkshire. Led by Arran Noble, they are called Team Jobs. 🍎 
+
+- Based in North Yorkshire, Razorblue employ over 170 experienced, enthusiastic IT professionals with different specialisms.
+
+- Razorblue's work is nationally recognised for providing high quality technology solutions and delivering an excellent level of customer service.
+
+
+
+- You might talk to Aaron, Alex, Jamie, Jordan, Kieran, Luke, Matthew or David.
+
 ### What support should I expect from Razorblue?
 - We work with Razorblue because they can respond and deliver quickly. 🎯
+
+- Razorblue answer phone calls first and will try to resolve your request in the call.
 
 - Razorblue will respond:
 	- **Within 1 hour** if an IT issue affects the whole business or a large group of users.
 	- **Within 1-6 hours** if an IT issue prevents an individual from working, or a minor IT issue affects an individual or group.
 
-### Who am I talking to when I contact Razorblue?
-- Based in North Yorkshire, Razorblue employ over 170 experienced, enthusiastic IT professionals with different specialisms.
 
-- Razorblue's work is nationally recognised for providing high quality technology solutions and delivering an excellent level of customer service.
-
-- YMT's IT Support team is called Team Jobs, and includes 9 people. You might talk to Aaron, Alex, Arran, Jamie, Jordan, Kieran, Luke, Matthew or David. 
 
 
 ### Good to know:
