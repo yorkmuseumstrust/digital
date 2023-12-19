@@ -2,13 +2,8 @@
 
 ![logo](_media/york_museums_trust.png)
 
-# We love digital / <small>Docs BETA 0.1</small>
+# Digital Library / <small>Docs BETA 0.1</small>
 
-> Explore our guides and examples to..
+> Explore our library to find out how to get support.
 
-- Product area one
-- Product area two
-- Product area three
-
-[Secondary CTA](https://github.com/docsifyjs/docsify/)
-[Need digital help?](support)
+[Need support?](support)
