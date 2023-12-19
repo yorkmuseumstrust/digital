@@ -2,11 +2,11 @@
 
 Razorblue use industry-standard methods to categorise and prioritise IT support requests.
 
-This page is just for information - you don't need to categorise or prioritise your issue for Razorblue.
-
 When you submit a support request, you just need to tell Razorblue what is happening for you.
 
 If you're not sure, check out these tips [Making an effective support request](support/help-razorblue.md).
+
+On this page you can find out how Razorblue prioritise requests - it's just for information, you don't need to categorise or prioritise your issue for Razorblue.
 
 ### An incident or a change
 
