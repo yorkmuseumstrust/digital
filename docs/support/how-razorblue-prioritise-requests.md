@@ -8,8 +8,6 @@ When you submit a support request, you just need to tell Razorblue what is happe
 
 If you're not sure, check out these tips [Making an effective support request](support/help-razorblue.md).
 
-On this page you can find out how Razorblue prioritise requests - it's just for information, you don't need to categorise or prioritise your issue for Razorblue.
-
 ### An incident or a change
 
 - An IT support request will be either:
