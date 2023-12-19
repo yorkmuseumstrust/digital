@@ -14,6 +14,7 @@ If you need IT support, contact our IT support provider Razorblue:
 
 > If you are unable to work because of an IT system failure, contact Razorblue.
 
+> If you can, make a phone call first.
 
 ## Request a digital thing
 
