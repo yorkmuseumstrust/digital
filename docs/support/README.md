@@ -16,6 +16,12 @@ If you need IT support, contact our IT support provider Razorblue:
 
 > If you can, make a phone call first.
 
+Razorblue answer phone calls first, and aim to deal with support requests on a first call.
+
+You can request a call back if you prefer. 
+
+Any phone number given will only be used for the purpose of responding to your IT support request.
+
 ## Request a digital thing
 
 Ask the **Digital and Data Team** 🦄 for advice, training or to create something new.
