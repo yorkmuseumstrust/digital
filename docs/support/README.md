@@ -20,7 +20,7 @@ Razorblue answer phone calls first, and aim to deal with support requests on a f
 
 You can request a call back if you prefer. 
 
-Any phone number given will only be used for the purpose of responding to your IT support request.
+When you provide a phone number, it will only be used for the purpose of responding to your IT support request.
 
 ## Request a digital thing
 
