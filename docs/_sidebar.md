@@ -1,8 +1,8 @@
 - Home
-    - [Digital Library](about/_coverpage.md)
+    - [Digital Library](/)
 
 - About 
-    -   [About](https://digital.ymt.org.uk/#/about/)
+    - [About](https://digital.ymt.org.uk/#/about/)
 
 - Support
 
@@ -14,9 +14,6 @@
         - [How Razorblue prioritise support requests](support/how-razorblue-prioritise-requests.md)
         - [Your Razorblue password](support/get-razorblue-pw.md)
         
-- Learn
-
-
 - Projects
 
     - [Projects](projects/)
