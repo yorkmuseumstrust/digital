@@ -6,4 +6,4 @@
 
 > Explore our library to find out how to get support.
 
-[Need support?](support)
+[Need support?](support/)
