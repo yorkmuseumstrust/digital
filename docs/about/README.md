@@ -13,7 +13,7 @@ The purpose of the **Digital and Data Team** 🦄 is to guide this digital adopt
 
 ## Values
 
-York Museums Trust seeks to embrace **curiosity**, **creativity**, **generosity**, and **responsibility** equally and together. 
+York Museums Trust values **curiosity**, **creativity**, **generosity**, and **responsibility** equally and together. 
 
 In the **Digital and Data Team** 🦄 this means:
 
