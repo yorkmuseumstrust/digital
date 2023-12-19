@@ -16,9 +16,9 @@ If you need IT support, contact our IT support provider Razorblue:
 
 > If you can, make a phone call first.
 
-Razorblue answer phone calls first, and aim to deal with support requests on a first call.
+Razorblue answer phone calls first. They aim to resolve your support request on your first call.
 
-You can request a call back if you prefer. 
+You can request a call back by them if you prefer. 
 
 When you provide a phone number, it will only be used for the purpose of responding to your IT support request.
 
