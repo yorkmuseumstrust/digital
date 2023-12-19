@@ -1,4 +1,5 @@
-- Home(about/coverpage.md)
+- Home
+    - [Digital Library](about/coverpage.md)
 
 - About 
     -   [About](https://digital.ymt.org.uk/#/about/)
