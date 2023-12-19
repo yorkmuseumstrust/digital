@@ -1,4 +1,4 @@
-- Home(coverpage.md)
+- Home(about/coverpage.md)
 
 - About 
     -   [About](https://digital.ymt.org.uk/#/about/)
