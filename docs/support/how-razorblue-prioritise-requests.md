@@ -1,5 +1,7 @@
 # How Razorblue prioritise support requests
 
+On this page you can find out how Razorblue prioritise requests - it's just for information, you don't need to categorise or prioritise your issue for Razorblue.
+
 Razorblue use industry-standard methods to categorise and prioritise IT support requests.
 
 When you submit a support request, you just need to tell Razorblue what is happening for you.
