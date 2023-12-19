@@ -1,5 +1,5 @@
 - About 
-    -   [About] (https://digital.ymt.org.uk/#/about/)
+    -   [About](https://digital.ymt.org.uk/#/about/)
 
 - Support
 
