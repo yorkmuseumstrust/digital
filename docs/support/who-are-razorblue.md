@@ -5,6 +5,8 @@
 
 - You can contact them directly at any time. 🙌🏼
 
+On this page you can find out more about our IT Support team at Razorblue.
+
 ### What support should I expect from Razorblue?
 - We work with Razorblue because they can respond and deliver quickly. 🎯
 
